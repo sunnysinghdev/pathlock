@@ -1,0 +1,15 @@
+C:\Users\sunny\Downloads\code\pipeline\bin\Debug\net7.0\pipeline.exe
+C:\Users\sunny\Downloads\code\pipeline\bin\Debug\net7.0\pipeline.deps.json
+C:\Users\sunny\Downloads\code\pipeline\bin\Debug\net7.0\pipeline.runtimeconfig.json
+C:\Users\sunny\Downloads\code\pipeline\bin\Debug\net7.0\pipeline.dll
+C:\Users\sunny\Downloads\code\pipeline\bin\Debug\net7.0\pipeline.pdb
+C:\Users\sunny\Downloads\code\pipeline\obj\Debug\net7.0\pipeline.csproj.AssemblyReference.cache
+C:\Users\sunny\Downloads\code\pipeline\obj\Debug\net7.0\pipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunny\Downloads\code\pipeline\obj\Debug\net7.0\pipeline.AssemblyInfoInputs.cache
+C:\Users\sunny\Downloads\code\pipeline\obj\Debug\net7.0\pipeline.AssemblyInfo.cs
+C:\Users\sunny\Downloads\code\pipeline\obj\Debug\net7.0\pipeline.csproj.CoreCompileInputs.cache
+C:\Users\sunny\Downloads\code\pipeline\obj\Debug\net7.0\pipeline.dll
+C:\Users\sunny\Downloads\code\pipeline\obj\Debug\net7.0\refint\pipeline.dll
+C:\Users\sunny\Downloads\code\pipeline\obj\Debug\net7.0\pipeline.pdb
+C:\Users\sunny\Downloads\code\pipeline\obj\Debug\net7.0\pipeline.genruntimeconfig.cache
+C:\Users\sunny\Downloads\code\pipeline\obj\Debug\net7.0\ref\pipeline.dll
